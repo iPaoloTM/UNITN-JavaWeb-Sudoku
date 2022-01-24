@@ -1,0 +1,20 @@
+Tue Jan 18 18:37:13 CET 2022 : Server di rete Apache Derby: 10.11.1.2 - (1629631) avviato e pronto ad accettare connessioni sulla porta 1527
+----------------------------------------------------------------
+Tue Jan 18 18:37:13 CET 2022:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): istanza a816c00e-017e-6e43-a2ca-ffffd14dc37e
+sulla directory di database /Users/paoloaliprandi/NetBeansProjects/Sudoku/SudokuDB con caricatore classi sun.misc.Launcher$AppClassLoader@6f94fa3e 
+Caricato da file:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/db
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=/Users/paoloaliprandi/NetBeansProjects/Sudoku
+Programma di caricamento classe database avviato - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jan 18 19:32:27 CET 2022: arresto in corso del motore di Derby
+----------------------------------------------------------------
+Tue Jan 18 19:32:27 CET 2022:
+Arresto dell'istanza a816c00e-017e-6e43-a2ca-ffffd14dc37e nella directory del database /Users/paoloaliprandi/NetBeansProjects/Sudoku/SudokuDB con il caricatore di classi sun.misc.Launcher$AppClassLoader@6f94fa3e 
+----------------------------------------------------------------
